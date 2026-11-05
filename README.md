@@ -4,16 +4,16 @@ This project evaluates whether the mean memory retention scores of a sample diff
 Note: This Analysis was conduced using a synthetic dataset created specifically for statistical practice and methodology demonestration*
 
 ## Data Description
--** Data Source : **Synthetic/Demo  Dataset( created for SPSS/PSPP methodology practice purposes)
--** Sample Size (N): 15 Participants
+   -** Data Source : **Synthetic/Demo  Dataset( created for SPSS/PSPP methodology practice purposes)
+    -** Sample Size (N): 15 Participants
 
 -** Variable: **
--' Participant-ID ': Participant identifier (Nominal)
--' Memory-score ' : Continuous scale score (Interval/Ratio)
+    -' Participant-ID ': Participant identifier (Nominal)
+      Memory-score ' : Continuous scale score (Interval/Ratio)
 
 ## Key Findings ( One-sample T-test analysis )
--** Test value (Hypothesized population mean ):  **$/20$
--** Statistical Test result : ** A One sample T-test revealed that the average memory score was significantly higher than the baseline value of 20, $t(140= 13.92) P<.001$
+    -** Test value (Hypothesized population mean ):  **$/20$
+    -** Statistical Test result : ** A One sample T-test revealed that the average memory score was significantly higher than the baseline value of 20, $t(140= 13.92) P<.001$
 ## Software Used
 - PSPP ( IBM SPSS Syntax compatible )
 ## Result(APA Style)
