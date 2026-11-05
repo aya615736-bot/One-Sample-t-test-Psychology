@@ -15,3 +15,5 @@ Note: This Analysis was conduced using a synthetic dataset created specifically 
 -PSPP ( IBM SPSS Syntax compatible )
 ## Result(APA Style)
 >A one sample t-test was conducted to determine whether the average memory score of participants differed significantly from a baseline score of 20 the results indicated that the mean memory score ($M=36.27, SD=4.53$ ) was significantly higher than the baseline value of 20, $t(14)=13.92,P<.001$ (Two tailed ). The mean difference was $16.27$ with a 95% confidence interval ranging from $ 13.76$ to $18.77$
+![PSPP output](Screenshot2026-11-05193627.png)
+>
